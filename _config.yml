@@ -1,0 +1,6 @@
+title: Vishwa Eswaran
+description: Hardware Architecture | FPGA | SNN NoC
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+google_analytics: [Your-ID-Optional]
